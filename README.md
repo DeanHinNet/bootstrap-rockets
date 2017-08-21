@@ -2,4 +2,4 @@
 
 See Here
 
-http://www.google.com
+<a href='http://www.google.com' target='_blank'>Google</a>
